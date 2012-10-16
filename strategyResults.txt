@@ -1,0 +1,3 @@
+
+group seats= 46
+ Min group students = 19	Max group students =25
